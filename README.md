@@ -19,6 +19,8 @@ Blob Storage: Initial raw data is kept in blob storage for durability and access
 
 Data Processing: Azure Data Factory orchestrates the transformation of data, which is then ingested into a Data Lakehouse.
 
+GPT-4 (the AI model from OpenAI) is used to create summaries of the clinical notes. It is also used to create embeddings of the summary, which are vector representations of the summary text useful for various machine learning tasks.
+
 NLP Enrichment: Language detection and normalization occur before GPT-4 generates summaries and embeddings of the clinical notes.
 
 Delta Storage: The enriched data is stored in Delta tables to ensure that it is versioned and queryable.
