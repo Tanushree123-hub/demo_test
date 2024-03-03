@@ -40,10 +40,6 @@ OBX|1|TX|HIS0001^Historia Clínica^HospitalSystem||El paciente presenta un histo
 
 I have a clinical note that I need translated into English. The note contains important medical information about a patient's condition, symptoms, medical history, physical examination findings, and the recommended plan of action. It is written in a language other than English and contains specific medical terminology that is crucial to the patient's care. The translation must accurately convey the original meaning and medical terms to ensure the information is communicated effectively. Please translate the following clinical note into English
 
-Here is a pie chart representing the distribution of clinical notes by language. Each slice of the pie chart corresponds to the percentage of clinical notes in a particular language, giving a visual representation of the multilingual diversity of the dataset.
-
-![image](assets/Data.png) ![image](assets/piechart.png) 
-
 # Gen-AI Assistant for Multilingual Clinical Notes Analysis
 
 AI-Driven Interaction: Utilizes natural language processing to understand and respond to user queries and commands related to the clinical notes data.
