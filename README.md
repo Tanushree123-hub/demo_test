@@ -1,6 +1,6 @@
 # Multilingual Clinical Notes Ingestion Project
 
-![image](assets/introduction.jpg)
+![image](assets/background.jpg)
 
 # Introduction
 
