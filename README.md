@@ -1,10 +1,10 @@
 # Multilingual Clinical Notes Ingestion Project
 
-![image](assets/introimage.jpg)
+![image](assets/introduction.jpg)
 
 # Introduction
 
-In the ever-evolving landscape of global health care, effective communication and data management are paramount. With the rise of diverse patient populations and multilingual documentation, the need for a system that can seamlessly integrate and interpret clinical notes from various languages has never been more pressing. The Multilingual Clinical Notes Analysis Project represents a groundbreaking solution designed to address this challenge head on.
+In the ever evolving landscape of global health care, effective communication and data management are paramount. With the rise of diverse patient populations and multilingual documentation, the need for a system that can seamlessly integrate and interpret clinical notes from various languages has never been more pressing. The Multilingual Clinical Notes Analysis Project represents a groundbreaking solution designed to address this challenge head on.
 
 By integrating Health Level 7 (HL7) standards, the project ensures a smooth transition from traditional record-keeping to a more sophisticated, AI-powered data management system. The goal is to improve the efficiency of healthcare providers, enhance patient care, and unlock new insights from clinical data that were previously inaccessible due to language barriers. The Multilingual Clinical Notes Analysis Project is more than a technological innovation; it is a commitment to inclusivity and excellence in healthcare.
 
